@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://hasnzahmd.github.io/Keeper-App",
+  "homepage": "https://hasnzahmd.github.io/Keeper-App/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
